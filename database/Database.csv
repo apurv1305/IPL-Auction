@@ -1,0 +1,11 @@
+Index,Name,Country,Base Price,Sold Status,Sold Price,Type,Remark,Appearance Counter,Team  Owner,Type
+0,Virat Kohli,India,200,Unsold,0,Marquee Players,Right Hand,0,None,Batsmen
+1,Ms Dhoni,India,200,Unsold,0,Marquee Players,Right Hand Wicketkeeper,0,None,Batsmen
+2,Umesh Yadav,India,100,Unsold,0,Bowlers,Right Arm Fast,0,None,Bowler
+3,Jos Butler,England,150,Unsold,0,Marquee Players,Right Hand Wicketkeeper,1,None,Batsmen
+4,Praveen Tambe,India,50,Unsold,0,Bowlers,Right Arm Leg Spin,0,None,Bowler
+5,Vinay Kumar,India,50,Unsold,0,Bowlers,Right Arm Medium Fast,0,None,Bowler
+6,Bhuvneshwar Kumar,India,150,Sold,160,Marquee Players,Right Arm Fast,1,Royal Challengers Bangalore,Bowler
+7,AB De Villiers,South Africa,200,Sold,240,Marquee Players,Right Hand Wicketkeeper,1,Royal Challengers Bangalore,Batsmen
+8,Trent Boult,New Zealand,150,Unsold,0,Bowlers,Right Arm Fast,0,None,Bowler
+9,Mitch Santner,New Zealand,150,Unsold,0,All-Rounders,Left Arm Spin,0,None,All-Rounder
